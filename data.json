@@ -1,0 +1,3124 @@
+[
+  {
+    "date": "2018-01-01",
+    "term_premium": -0.45,
+    "yield_10y": 2.45,
+    "duration_10y": 8.82,
+    "sp500": 2750.0
+  },
+  {
+    "date": "2018-01-08",
+    "term_premium": -0.448,
+    "yield_10y": 2.48,
+    "duration_10y": 8.81,
+    "sp500": 2748.4
+  },
+  {
+    "date": "2018-01-15",
+    "term_premium": -0.447,
+    "yield_10y": 2.51,
+    "duration_10y": 8.79,
+    "sp500": 2746.8
+  },
+  {
+    "date": "2018-01-22",
+    "term_premium": -0.445,
+    "yield_10y": 2.54,
+    "duration_10y": 8.78,
+    "sp500": 2745.3
+  },
+  {
+    "date": "2018-01-29",
+    "term_premium": -0.444,
+    "yield_10y": 2.58,
+    "duration_10y": 8.77,
+    "sp500": 2743.7
+  },
+  {
+    "date": "2018-02-05",
+    "term_premium": -0.442,
+    "yield_10y": 2.61,
+    "duration_10y": 8.75,
+    "sp500": 2742.1
+  },
+  {
+    "date": "2018-02-12",
+    "term_premium": -0.441,
+    "yield_10y": 2.64,
+    "duration_10y": 8.74,
+    "sp500": 2740.5
+  },
+  {
+    "date": "2018-02-19",
+    "term_premium": -0.439,
+    "yield_10y": 2.67,
+    "duration_10y": 8.73,
+    "sp500": 2738.9
+  },
+  {
+    "date": "2018-02-26",
+    "term_premium": -0.437,
+    "yield_10y": 2.7,
+    "duration_10y": 8.71,
+    "sp500": 2737.4
+  },
+  {
+    "date": "2018-03-05",
+    "term_premium": -0.436,
+    "yield_10y": 2.73,
+    "duration_10y": 8.7,
+    "sp500": 2735.8
+  },
+  {
+    "date": "2018-03-12",
+    "term_premium": -0.434,
+    "yield_10y": 2.77,
+    "duration_10y": 8.68,
+    "sp500": 2734.2
+  },
+  {
+    "date": "2018-03-19",
+    "term_premium": -0.433,
+    "yield_10y": 2.8,
+    "duration_10y": 8.67,
+    "sp500": 2732.6
+  },
+  {
+    "date": "2018-03-26",
+    "term_premium": -0.431,
+    "yield_10y": 2.83,
+    "duration_10y": 8.66,
+    "sp500": 2731.1
+  },
+  {
+    "date": "2018-04-02",
+    "term_premium": -0.429,
+    "yield_10y": 2.86,
+    "duration_10y": 8.64,
+    "sp500": 2729.5
+  },
+  {
+    "date": "2018-04-09",
+    "term_premium": -0.428,
+    "yield_10y": 2.89,
+    "duration_10y": 8.63,
+    "sp500": 2727.9
+  },
+  {
+    "date": "2018-04-16",
+    "term_premium": -0.426,
+    "yield_10y": 2.92,
+    "duration_10y": 8.62,
+    "sp500": 2726.3
+  },
+  {
+    "date": "2018-04-23",
+    "term_premium": -0.425,
+    "yield_10y": 2.96,
+    "duration_10y": 8.6,
+    "sp500": 2724.7
+  },
+  {
+    "date": "2018-04-30",
+    "term_premium": -0.423,
+    "yield_10y": 2.99,
+    "duration_10y": 8.59,
+    "sp500": 2723.2
+  },
+  {
+    "date": "2018-05-07",
+    "term_premium": -0.422,
+    "yield_10y": 3.02,
+    "duration_10y": 8.58,
+    "sp500": 2721.6
+  },
+  {
+    "date": "2018-05-15",
+    "term_premium": -0.42,
+    "yield_10y": 3.05,
+    "duration_10y": 8.56,
+    "sp500": 2720.0
+  },
+  {
+    "date": "2018-05-22",
+    "term_premium": -0.413,
+    "yield_10y": 3.06,
+    "duration_10y": 8.56,
+    "sp500": 2730.8
+  },
+  {
+    "date": "2018-05-29",
+    "term_premium": -0.405,
+    "yield_10y": 3.07,
+    "duration_10y": 8.56,
+    "sp500": 2741.6
+  },
+  {
+    "date": "2018-06-05",
+    "term_premium": -0.398,
+    "yield_10y": 3.07,
+    "duration_10y": 8.55,
+    "sp500": 2752.4
+  },
+  {
+    "date": "2018-06-12",
+    "term_premium": -0.391,
+    "yield_10y": 3.08,
+    "duration_10y": 8.55,
+    "sp500": 2763.2
+  },
+  {
+    "date": "2018-06-19",
+    "term_premium": -0.383,
+    "yield_10y": 3.09,
+    "duration_10y": 8.55,
+    "sp500": 2773.9
+  },
+  {
+    "date": "2018-06-26",
+    "term_premium": -0.376,
+    "yield_10y": 3.1,
+    "duration_10y": 8.54,
+    "sp500": 2784.7
+  },
+  {
+    "date": "2018-07-03",
+    "term_premium": -0.368,
+    "yield_10y": 3.11,
+    "duration_10y": 8.54,
+    "sp500": 2795.5
+  },
+  {
+    "date": "2018-07-10",
+    "term_premium": -0.361,
+    "yield_10y": 3.11,
+    "duration_10y": 8.54,
+    "sp500": 2806.3
+  },
+  {
+    "date": "2018-07-17",
+    "term_premium": -0.354,
+    "yield_10y": 3.12,
+    "duration_10y": 8.53,
+    "sp500": 2817.1
+  },
+  {
+    "date": "2018-07-24",
+    "term_premium": -0.346,
+    "yield_10y": 3.13,
+    "duration_10y": 8.53,
+    "sp500": 2827.9
+  },
+  {
+    "date": "2018-07-31",
+    "term_premium": -0.339,
+    "yield_10y": 3.14,
+    "duration_10y": 8.53,
+    "sp500": 2838.7
+  },
+  {
+    "date": "2018-08-07",
+    "term_premium": -0.332,
+    "yield_10y": 3.14,
+    "duration_10y": 8.52,
+    "sp500": 2849.5
+  },
+  {
+    "date": "2018-08-14",
+    "term_premium": -0.324,
+    "yield_10y": 3.15,
+    "duration_10y": 8.52,
+    "sp500": 2860.3
+  },
+  {
+    "date": "2018-08-21",
+    "term_premium": -0.317,
+    "yield_10y": 3.16,
+    "duration_10y": 8.52,
+    "sp500": 2871.1
+  },
+  {
+    "date": "2018-08-28",
+    "term_premium": -0.309,
+    "yield_10y": 3.17,
+    "duration_10y": 8.51,
+    "sp500": 2881.8
+  },
+  {
+    "date": "2018-09-04",
+    "term_premium": -0.302,
+    "yield_10y": 3.18,
+    "duration_10y": 8.51,
+    "sp500": 2892.6
+  },
+  {
+    "date": "2018-09-11",
+    "term_premium": -0.295,
+    "yield_10y": 3.18,
+    "duration_10y": 8.51,
+    "sp500": 2903.4
+  },
+  {
+    "date": "2018-09-18",
+    "term_premium": -0.287,
+    "yield_10y": 3.19,
+    "duration_10y": 8.5,
+    "sp500": 2914.2
+  },
+  {
+    "date": "2018-10-01",
+    "term_premium": -0.28,
+    "yield_10y": 3.2,
+    "duration_10y": 8.5,
+    "sp500": 2925.0
+  },
+  {
+    "date": "2018-10-08",
+    "term_premium": -0.303,
+    "yield_10y": 3.16,
+    "duration_10y": 8.52,
+    "sp500": 2877.2
+  },
+  {
+    "date": "2018-10-15",
+    "term_premium": -0.325,
+    "yield_10y": 3.12,
+    "duration_10y": 8.53,
+    "sp500": 2829.3
+  },
+  {
+    "date": "2018-10-22",
+    "term_premium": -0.348,
+    "yield_10y": 3.09,
+    "duration_10y": 8.55,
+    "sp500": 2781.5
+  },
+  {
+    "date": "2018-10-29",
+    "term_premium": -0.37,
+    "yield_10y": 3.05,
+    "duration_10y": 8.56,
+    "sp500": 2733.7
+  },
+  {
+    "date": "2018-11-05",
+    "term_premium": -0.393,
+    "yield_10y": 3.01,
+    "duration_10y": 8.58,
+    "sp500": 2685.8
+  },
+  {
+    "date": "2018-11-12",
+    "term_premium": -0.415,
+    "yield_10y": 2.98,
+    "duration_10y": 8.59,
+    "sp500": 2638.0
+  },
+  {
+    "date": "2018-11-19",
+    "term_premium": -0.438,
+    "yield_10y": 2.94,
+    "duration_10y": 8.61,
+    "sp500": 2590.2
+  },
+  {
+    "date": "2018-11-26",
+    "term_premium": -0.46,
+    "yield_10y": 2.9,
+    "duration_10y": 8.63,
+    "sp500": 2542.3
+  },
+  {
+    "date": "2018-12-03",
+    "term_premium": -0.483,
+    "yield_10y": 2.86,
+    "duration_10y": 8.64,
+    "sp500": 2494.5
+  },
+  {
+    "date": "2018-12-10",
+    "term_premium": -0.505,
+    "yield_10y": 2.83,
+    "duration_10y": 8.66,
+    "sp500": 2446.7
+  },
+  {
+    "date": "2018-12-17",
+    "term_premium": -0.528,
+    "yield_10y": 2.79,
+    "duration_10y": 8.67,
+    "sp500": 2398.8
+  },
+  {
+    "date": "2018-12-24",
+    "term_premium": -0.55,
+    "yield_10y": 2.75,
+    "duration_10y": 8.69,
+    "sp500": 2351.0
+  },
+  {
+    "date": "2018-12-31",
+    "term_premium": -0.556,
+    "yield_10y": 2.74,
+    "duration_10y": 8.7,
+    "sp500": 2385.6
+  },
+  {
+    "date": "2019-01-07",
+    "term_premium": -0.562,
+    "yield_10y": 2.73,
+    "duration_10y": 8.7,
+    "sp500": 2420.2
+  },
+  {
+    "date": "2019-01-14",
+    "term_premium": -0.569,
+    "yield_10y": 2.71,
+    "duration_10y": 8.71,
+    "sp500": 2454.9
+  },
+  {
+    "date": "2019-01-21",
+    "term_premium": -0.575,
+    "yield_10y": 2.7,
+    "duration_10y": 8.71,
+    "sp500": 2489.5
+  },
+  {
+    "date": "2019-01-28",
+    "term_premium": -0.581,
+    "yield_10y": 2.69,
+    "duration_10y": 8.72,
+    "sp500": 2524.1
+  },
+  {
+    "date": "2019-02-04",
+    "term_premium": -0.588,
+    "yield_10y": 2.68,
+    "duration_10y": 8.72,
+    "sp500": 2558.8
+  },
+  {
+    "date": "2019-02-11",
+    "term_premium": -0.594,
+    "yield_10y": 2.67,
+    "duration_10y": 8.73,
+    "sp500": 2593.4
+  },
+  {
+    "date": "2019-02-18",
+    "term_premium": -0.6,
+    "yield_10y": 2.66,
+    "duration_10y": 8.73,
+    "sp500": 2628.0
+  },
+  {
+    "date": "2019-02-25",
+    "term_premium": -0.606,
+    "yield_10y": 2.64,
+    "duration_10y": 8.74,
+    "sp500": 2662.6
+  },
+  {
+    "date": "2019-03-04",
+    "term_premium": -0.613,
+    "yield_10y": 2.63,
+    "duration_10y": 8.74,
+    "sp500": 2697.2
+  },
+  {
+    "date": "2019-03-11",
+    "term_premium": -0.619,
+    "yield_10y": 2.62,
+    "duration_10y": 8.75,
+    "sp500": 2731.9
+  },
+  {
+    "date": "2019-03-18",
+    "term_premium": -0.625,
+    "yield_10y": 2.61,
+    "duration_10y": 8.75,
+    "sp500": 2766.5
+  },
+  {
+    "date": "2019-03-25",
+    "term_premium": -0.631,
+    "yield_10y": 2.6,
+    "duration_10y": 8.76,
+    "sp500": 2801.1
+  },
+  {
+    "date": "2019-04-01",
+    "term_premium": -0.638,
+    "yield_10y": 2.58,
+    "duration_10y": 8.76,
+    "sp500": 2835.8
+  },
+  {
+    "date": "2019-04-08",
+    "term_premium": -0.644,
+    "yield_10y": 2.57,
+    "duration_10y": 8.77,
+    "sp500": 2870.4
+  },
+  {
+    "date": "2019-04-15",
+    "term_premium": -0.65,
+    "yield_10y": 2.56,
+    "duration_10y": 8.77,
+    "sp500": 2905.0
+  },
+  {
+    "date": "2019-04-22",
+    "term_premium": -0.674,
+    "yield_10y": 2.5,
+    "duration_10y": 8.8,
+    "sp500": 2906.1
+  },
+  {
+    "date": "2019-04-29",
+    "term_premium": -0.697,
+    "yield_10y": 2.45,
+    "duration_10y": 8.82,
+    "sp500": 2907.2
+  },
+  {
+    "date": "2019-05-06",
+    "term_premium": -0.721,
+    "yield_10y": 2.39,
+    "duration_10y": 8.85,
+    "sp500": 2908.3
+  },
+  {
+    "date": "2019-05-13",
+    "term_premium": -0.745,
+    "yield_10y": 2.34,
+    "duration_10y": 8.87,
+    "sp500": 2909.4
+  },
+  {
+    "date": "2019-05-20",
+    "term_premium": -0.768,
+    "yield_10y": 2.28,
+    "duration_10y": 8.9,
+    "sp500": 2910.5
+  },
+  {
+    "date": "2019-05-27",
+    "term_premium": -0.792,
+    "yield_10y": 2.23,
+    "duration_10y": 8.92,
+    "sp500": 2911.6
+  },
+  {
+    "date": "2019-06-03",
+    "term_premium": -0.816,
+    "yield_10y": 2.17,
+    "duration_10y": 8.95,
+    "sp500": 2912.7
+  },
+  {
+    "date": "2019-06-10",
+    "term_premium": -0.839,
+    "yield_10y": 2.11,
+    "duration_10y": 8.97,
+    "sp500": 2913.8
+  },
+  {
+    "date": "2019-06-17",
+    "term_premium": -0.863,
+    "yield_10y": 2.06,
+    "duration_10y": 9.0,
+    "sp500": 2914.9
+  },
+  {
+    "date": "2019-06-24",
+    "term_premium": -0.887,
+    "yield_10y": 2.0,
+    "duration_10y": 9.02,
+    "sp500": 2916.1
+  },
+  {
+    "date": "2019-07-01",
+    "term_premium": -0.911,
+    "yield_10y": 1.95,
+    "duration_10y": 9.05,
+    "sp500": 2917.2
+  },
+  {
+    "date": "2019-07-08",
+    "term_premium": -0.934,
+    "yield_10y": 1.89,
+    "duration_10y": 9.07,
+    "sp500": 2918.3
+  },
+  {
+    "date": "2019-07-15",
+    "term_premium": -0.958,
+    "yield_10y": 1.83,
+    "duration_10y": 9.1,
+    "sp500": 2919.4
+  },
+  {
+    "date": "2019-07-22",
+    "term_premium": -0.982,
+    "yield_10y": 1.78,
+    "duration_10y": 9.12,
+    "sp500": 2920.5
+  },
+  {
+    "date": "2019-07-29",
+    "term_premium": -1.005,
+    "yield_10y": 1.72,
+    "duration_10y": 9.15,
+    "sp500": 2921.6
+  },
+  {
+    "date": "2019-08-05",
+    "term_premium": -1.029,
+    "yield_10y": 1.67,
+    "duration_10y": 9.18,
+    "sp500": 2922.7
+  },
+  {
+    "date": "2019-08-12",
+    "term_premium": -1.053,
+    "yield_10y": 1.61,
+    "duration_10y": 9.2,
+    "sp500": 2923.8
+  },
+  {
+    "date": "2019-08-19",
+    "term_premium": -1.076,
+    "yield_10y": 1.56,
+    "duration_10y": 9.23,
+    "sp500": 2924.9
+  },
+  {
+    "date": "2019-08-30",
+    "term_premium": -1.1,
+    "yield_10y": 1.5,
+    "duration_10y": 9.25,
+    "sp500": 2926.0
+  },
+  {
+    "date": "2019-09-06",
+    "term_premium": -1.078,
+    "yield_10y": 1.52,
+    "duration_10y": 9.24,
+    "sp500": 2943.9
+  },
+  {
+    "date": "2019-09-13",
+    "term_premium": -1.055,
+    "yield_10y": 1.55,
+    "duration_10y": 9.23,
+    "sp500": 2961.8
+  },
+  {
+    "date": "2019-09-20",
+    "term_premium": -1.033,
+    "yield_10y": 1.57,
+    "duration_10y": 9.22,
+    "sp500": 2979.6
+  },
+  {
+    "date": "2019-09-27",
+    "term_premium": -1.011,
+    "yield_10y": 1.6,
+    "duration_10y": 9.21,
+    "sp500": 2997.5
+  },
+  {
+    "date": "2019-10-04",
+    "term_premium": -0.988,
+    "yield_10y": 1.62,
+    "duration_10y": 9.2,
+    "sp500": 3015.4
+  },
+  {
+    "date": "2019-10-11",
+    "term_premium": -0.966,
+    "yield_10y": 1.65,
+    "duration_10y": 9.18,
+    "sp500": 3033.3
+  },
+  {
+    "date": "2019-10-18",
+    "term_premium": -0.944,
+    "yield_10y": 1.67,
+    "duration_10y": 9.17,
+    "sp500": 3051.2
+  },
+  {
+    "date": "2019-10-25",
+    "term_premium": -0.921,
+    "yield_10y": 1.7,
+    "duration_10y": 9.16,
+    "sp500": 3069.1
+  },
+  {
+    "date": "2019-11-01",
+    "term_premium": -0.899,
+    "yield_10y": 1.72,
+    "duration_10y": 9.15,
+    "sp500": 3086.9
+  },
+  {
+    "date": "2019-11-08",
+    "term_premium": -0.876,
+    "yield_10y": 1.75,
+    "duration_10y": 9.14,
+    "sp500": 3104.8
+  },
+  {
+    "date": "2019-11-15",
+    "term_premium": -0.854,
+    "yield_10y": 1.77,
+    "duration_10y": 9.13,
+    "sp500": 3122.7
+  },
+  {
+    "date": "2019-11-22",
+    "term_premium": -0.832,
+    "yield_10y": 1.8,
+    "duration_10y": 9.12,
+    "sp500": 3140.6
+  },
+  {
+    "date": "2019-11-29",
+    "term_premium": -0.809,
+    "yield_10y": 1.82,
+    "duration_10y": 9.1,
+    "sp500": 3158.5
+  },
+  {
+    "date": "2019-12-06",
+    "term_premium": -0.787,
+    "yield_10y": 1.85,
+    "duration_10y": 9.09,
+    "sp500": 3176.4
+  },
+  {
+    "date": "2019-12-13",
+    "term_premium": -0.765,
+    "yield_10y": 1.87,
+    "duration_10y": 9.08,
+    "sp500": 3194.2
+  },
+  {
+    "date": "2019-12-20",
+    "term_premium": -0.742,
+    "yield_10y": 1.9,
+    "duration_10y": 9.07,
+    "sp500": 3212.1
+  },
+  {
+    "date": "2019-12-31",
+    "term_premium": -0.72,
+    "yield_10y": 1.92,
+    "duration_10y": 9.06,
+    "sp500": 3230.0
+  },
+  {
+    "date": "2020-01-07",
+    "term_premium": -0.742,
+    "yield_10y": 1.86,
+    "duration_10y": 9.09,
+    "sp500": 3255.0
+  },
+  {
+    "date": "2020-01-14",
+    "term_premium": -0.763,
+    "yield_10y": 1.81,
+    "duration_10y": 9.11,
+    "sp500": 3280.0
+  },
+  {
+    "date": "2020-01-21",
+    "term_premium": -0.785,
+    "yield_10y": 1.75,
+    "duration_10y": 9.14,
+    "sp500": 3305.0
+  },
+  {
+    "date": "2020-01-28",
+    "term_premium": -0.807,
+    "yield_10y": 1.69,
+    "duration_10y": 9.16,
+    "sp500": 3330.0
+  },
+  {
+    "date": "2020-02-04",
+    "term_premium": -0.828,
+    "yield_10y": 1.64,
+    "duration_10y": 9.19,
+    "sp500": 3355.0
+  },
+  {
+    "date": "2020-02-15",
+    "term_premium": -0.85,
+    "yield_10y": 1.58,
+    "duration_10y": 9.22,
+    "sp500": 3380.0
+  },
+  {
+    "date": "2020-02-22",
+    "term_premium": -0.95,
+    "yield_10y": 1.42,
+    "duration_10y": 9.29,
+    "sp500": 3151.4
+  },
+  {
+    "date": "2020-02-29",
+    "term_premium": -1.05,
+    "yield_10y": 1.25,
+    "duration_10y": 9.37,
+    "sp500": 2922.8
+  },
+  {
+    "date": "2020-03-07",
+    "term_premium": -1.15,
+    "yield_10y": 1.09,
+    "duration_10y": 9.45,
+    "sp500": 2694.2
+  },
+  {
+    "date": "2020-03-14",
+    "term_premium": -1.25,
+    "yield_10y": 0.92,
+    "duration_10y": 9.53,
+    "sp500": 2465.6
+  },
+  {
+    "date": "2020-03-23",
+    "term_premium": -1.35,
+    "yield_10y": 0.76,
+    "duration_10y": 9.61,
+    "sp500": 2237.0
+  },
+  {
+    "date": "2020-03-30",
+    "term_premium": -1.34,
+    "yield_10y": 0.76,
+    "duration_10y": 9.61,
+    "sp500": 2293.8
+  },
+  {
+    "date": "2020-04-06",
+    "term_premium": -1.33,
+    "yield_10y": 0.75,
+    "duration_10y": 9.61,
+    "sp500": 2350.5
+  },
+  {
+    "date": "2020-04-13",
+    "term_premium": -1.32,
+    "yield_10y": 0.75,
+    "duration_10y": 9.62,
+    "sp500": 2407.2
+  },
+  {
+    "date": "2020-04-20",
+    "term_premium": -1.31,
+    "yield_10y": 0.75,
+    "duration_10y": 9.62,
+    "sp500": 2464.0
+  },
+  {
+    "date": "2020-04-27",
+    "term_premium": -1.3,
+    "yield_10y": 0.74,
+    "duration_10y": 9.62,
+    "sp500": 2520.8
+  },
+  {
+    "date": "2020-05-04",
+    "term_premium": -1.29,
+    "yield_10y": 0.74,
+    "duration_10y": 9.62,
+    "sp500": 2577.5
+  },
+  {
+    "date": "2020-05-11",
+    "term_premium": -1.28,
+    "yield_10y": 0.74,
+    "duration_10y": 9.62,
+    "sp500": 2634.2
+  },
+  {
+    "date": "2020-05-18",
+    "term_premium": -1.27,
+    "yield_10y": 0.74,
+    "duration_10y": 9.62,
+    "sp500": 2691.0
+  },
+  {
+    "date": "2020-05-25",
+    "term_premium": -1.26,
+    "yield_10y": 0.73,
+    "duration_10y": 9.63,
+    "sp500": 2747.8
+  },
+  {
+    "date": "2020-06-01",
+    "term_premium": -1.25,
+    "yield_10y": 0.73,
+    "duration_10y": 9.63,
+    "sp500": 2804.5
+  },
+  {
+    "date": "2020-06-08",
+    "term_premium": -1.24,
+    "yield_10y": 0.73,
+    "duration_10y": 9.63,
+    "sp500": 2861.2
+  },
+  {
+    "date": "2020-06-15",
+    "term_premium": -1.23,
+    "yield_10y": 0.72,
+    "duration_10y": 9.63,
+    "sp500": 2918.0
+  },
+  {
+    "date": "2020-06-22",
+    "term_premium": -1.22,
+    "yield_10y": 0.72,
+    "duration_10y": 9.63,
+    "sp500": 2974.8
+  },
+  {
+    "date": "2020-06-29",
+    "term_premium": -1.21,
+    "yield_10y": 0.72,
+    "duration_10y": 9.63,
+    "sp500": 3031.5
+  },
+  {
+    "date": "2020-07-06",
+    "term_premium": -1.2,
+    "yield_10y": 0.71,
+    "duration_10y": 9.63,
+    "sp500": 3088.2
+  },
+  {
+    "date": "2020-07-13",
+    "term_premium": -1.19,
+    "yield_10y": 0.71,
+    "duration_10y": 9.64,
+    "sp500": 3145.0
+  },
+  {
+    "date": "2020-07-20",
+    "term_premium": -1.18,
+    "yield_10y": 0.71,
+    "duration_10y": 9.64,
+    "sp500": 3201.8
+  },
+  {
+    "date": "2020-07-27",
+    "term_premium": -1.17,
+    "yield_10y": 0.71,
+    "duration_10y": 9.64,
+    "sp500": 3258.5
+  },
+  {
+    "date": "2020-08-03",
+    "term_premium": -1.16,
+    "yield_10y": 0.7,
+    "duration_10y": 9.64,
+    "sp500": 3315.2
+  },
+  {
+    "date": "2020-08-15",
+    "term_premium": -1.15,
+    "yield_10y": 0.7,
+    "duration_10y": 9.64,
+    "sp500": 3372.0
+  },
+  {
+    "date": "2020-08-22",
+    "term_premium": -1.128,
+    "yield_10y": 0.71,
+    "duration_10y": 9.64,
+    "sp500": 3392.2
+  },
+  {
+    "date": "2020-08-29",
+    "term_premium": -1.107,
+    "yield_10y": 0.72,
+    "duration_10y": 9.63,
+    "sp500": 3412.4
+  },
+  {
+    "date": "2020-09-05",
+    "term_premium": -1.085,
+    "yield_10y": 0.74,
+    "duration_10y": 9.62,
+    "sp500": 3432.6
+  },
+  {
+    "date": "2020-09-12",
+    "term_premium": -1.064,
+    "yield_10y": 0.75,
+    "duration_10y": 9.62,
+    "sp500": 3452.8
+  },
+  {
+    "date": "2020-09-19",
+    "term_premium": -1.042,
+    "yield_10y": 0.76,
+    "duration_10y": 9.61,
+    "sp500": 3473.1
+  },
+  {
+    "date": "2020-09-26",
+    "term_premium": -1.021,
+    "yield_10y": 0.77,
+    "duration_10y": 9.61,
+    "sp500": 3493.3
+  },
+  {
+    "date": "2020-10-03",
+    "term_premium": -0.999,
+    "yield_10y": 0.78,
+    "duration_10y": 9.6,
+    "sp500": 3513.5
+  },
+  {
+    "date": "2020-10-10",
+    "term_premium": -0.977,
+    "yield_10y": 0.8,
+    "duration_10y": 9.59,
+    "sp500": 3533.7
+  },
+  {
+    "date": "2020-10-17",
+    "term_premium": -0.956,
+    "yield_10y": 0.81,
+    "duration_10y": 9.59,
+    "sp500": 3553.9
+  },
+  {
+    "date": "2020-10-24",
+    "term_premium": -0.934,
+    "yield_10y": 0.82,
+    "duration_10y": 9.58,
+    "sp500": 3574.1
+  },
+  {
+    "date": "2020-10-31",
+    "term_premium": -0.913,
+    "yield_10y": 0.83,
+    "duration_10y": 9.58,
+    "sp500": 3594.3
+  },
+  {
+    "date": "2020-11-07",
+    "term_premium": -0.891,
+    "yield_10y": 0.85,
+    "duration_10y": 9.57,
+    "sp500": 3614.5
+  },
+  {
+    "date": "2020-11-14",
+    "term_premium": -0.869,
+    "yield_10y": 0.86,
+    "duration_10y": 9.56,
+    "sp500": 3634.7
+  },
+  {
+    "date": "2020-11-21",
+    "term_premium": -0.848,
+    "yield_10y": 0.87,
+    "duration_10y": 9.56,
+    "sp500": 3654.9
+  },
+  {
+    "date": "2020-11-28",
+    "term_premium": -0.826,
+    "yield_10y": 0.88,
+    "duration_10y": 9.55,
+    "sp500": 3675.2
+  },
+  {
+    "date": "2020-12-05",
+    "term_premium": -0.805,
+    "yield_10y": 0.89,
+    "duration_10y": 9.55,
+    "sp500": 3695.4
+  },
+  {
+    "date": "2020-12-12",
+    "term_premium": -0.783,
+    "yield_10y": 0.91,
+    "duration_10y": 9.54,
+    "sp500": 3715.6
+  },
+  {
+    "date": "2020-12-19",
+    "term_premium": -0.762,
+    "yield_10y": 0.92,
+    "duration_10y": 9.53,
+    "sp500": 3735.8
+  },
+  {
+    "date": "2020-12-31",
+    "term_premium": -0.74,
+    "yield_10y": 0.93,
+    "duration_10y": 9.53,
+    "sp500": 3756.0
+  },
+  {
+    "date": "2021-01-07",
+    "term_premium": -0.693,
+    "yield_10y": 1.0,
+    "duration_10y": 9.49,
+    "sp500": 3774.0
+  },
+  {
+    "date": "2021-01-14",
+    "term_premium": -0.647,
+    "yield_10y": 1.06,
+    "duration_10y": 9.46,
+    "sp500": 3792.0
+  },
+  {
+    "date": "2021-01-21",
+    "term_premium": -0.6,
+    "yield_10y": 1.13,
+    "duration_10y": 9.43,
+    "sp500": 3810.0
+  },
+  {
+    "date": "2021-01-28",
+    "term_premium": -0.553,
+    "yield_10y": 1.2,
+    "duration_10y": 9.4,
+    "sp500": 3828.0
+  },
+  {
+    "date": "2021-02-04",
+    "term_premium": -0.507,
+    "yield_10y": 1.27,
+    "duration_10y": 9.36,
+    "sp500": 3846.0
+  },
+  {
+    "date": "2021-02-11",
+    "term_premium": -0.46,
+    "yield_10y": 1.33,
+    "duration_10y": 9.33,
+    "sp500": 3864.0
+  },
+  {
+    "date": "2021-02-18",
+    "term_premium": -0.413,
+    "yield_10y": 1.4,
+    "duration_10y": 9.3,
+    "sp500": 3882.0
+  },
+  {
+    "date": "2021-02-25",
+    "term_premium": -0.367,
+    "yield_10y": 1.47,
+    "duration_10y": 9.27,
+    "sp500": 3900.0
+  },
+  {
+    "date": "2021-03-04",
+    "term_premium": -0.32,
+    "yield_10y": 1.54,
+    "duration_10y": 9.24,
+    "sp500": 3918.0
+  },
+  {
+    "date": "2021-03-11",
+    "term_premium": -0.273,
+    "yield_10y": 1.6,
+    "duration_10y": 9.2,
+    "sp500": 3936.0
+  },
+  {
+    "date": "2021-03-18",
+    "term_premium": -0.227,
+    "yield_10y": 1.67,
+    "duration_10y": 9.17,
+    "sp500": 3954.0
+  },
+  {
+    "date": "2021-03-31",
+    "term_premium": -0.18,
+    "yield_10y": 1.74,
+    "duration_10y": 9.14,
+    "sp500": 3972.0
+  },
+  {
+    "date": "2021-04-07",
+    "term_premium": -0.199,
+    "yield_10y": 1.72,
+    "duration_10y": 9.15,
+    "sp500": 3998.1
+  },
+  {
+    "date": "2021-04-14",
+    "term_premium": -0.219,
+    "yield_10y": 1.69,
+    "duration_10y": 9.16,
+    "sp500": 4024.2
+  },
+  {
+    "date": "2021-04-21",
+    "term_premium": -0.238,
+    "yield_10y": 1.67,
+    "duration_10y": 9.18,
+    "sp500": 4050.3
+  },
+  {
+    "date": "2021-04-28",
+    "term_premium": -0.258,
+    "yield_10y": 1.64,
+    "duration_10y": 9.19,
+    "sp500": 4076.4
+  },
+  {
+    "date": "2021-05-05",
+    "term_premium": -0.277,
+    "yield_10y": 1.62,
+    "duration_10y": 9.2,
+    "sp500": 4102.5
+  },
+  {
+    "date": "2021-05-12",
+    "term_premium": -0.297,
+    "yield_10y": 1.59,
+    "duration_10y": 9.21,
+    "sp500": 4128.6
+  },
+  {
+    "date": "2021-05-19",
+    "term_premium": -0.316,
+    "yield_10y": 1.57,
+    "duration_10y": 9.22,
+    "sp500": 4154.7
+  },
+  {
+    "date": "2021-05-26",
+    "term_premium": -0.336,
+    "yield_10y": 1.55,
+    "duration_10y": 9.23,
+    "sp500": 4180.8
+  },
+  {
+    "date": "2021-06-02",
+    "term_premium": -0.355,
+    "yield_10y": 1.52,
+    "duration_10y": 9.24,
+    "sp500": 4206.9
+  },
+  {
+    "date": "2021-06-09",
+    "term_premium": -0.375,
+    "yield_10y": 1.5,
+    "duration_10y": 9.26,
+    "sp500": 4233.1
+  },
+  {
+    "date": "2021-06-16",
+    "term_premium": -0.394,
+    "yield_10y": 1.47,
+    "duration_10y": 9.27,
+    "sp500": 4259.2
+  },
+  {
+    "date": "2021-06-23",
+    "term_premium": -0.414,
+    "yield_10y": 1.45,
+    "duration_10y": 9.28,
+    "sp500": 4285.3
+  },
+  {
+    "date": "2021-06-30",
+    "term_premium": -0.433,
+    "yield_10y": 1.43,
+    "duration_10y": 9.29,
+    "sp500": 4311.4
+  },
+  {
+    "date": "2021-07-07",
+    "term_premium": -0.453,
+    "yield_10y": 1.4,
+    "duration_10y": 9.3,
+    "sp500": 4337.5
+  },
+  {
+    "date": "2021-07-14",
+    "term_premium": -0.472,
+    "yield_10y": 1.38,
+    "duration_10y": 9.31,
+    "sp500": 4363.6
+  },
+  {
+    "date": "2021-07-21",
+    "term_premium": -0.492,
+    "yield_10y": 1.35,
+    "duration_10y": 9.32,
+    "sp500": 4389.7
+  },
+  {
+    "date": "2021-07-28",
+    "term_premium": -0.511,
+    "yield_10y": 1.33,
+    "duration_10y": 9.34,
+    "sp500": 4415.8
+  },
+  {
+    "date": "2021-08-04",
+    "term_premium": -0.531,
+    "yield_10y": 1.3,
+    "duration_10y": 9.35,
+    "sp500": 4441.9
+  },
+  {
+    "date": "2021-08-15",
+    "term_premium": -0.55,
+    "yield_10y": 1.28,
+    "duration_10y": 9.36,
+    "sp500": 4468.0
+  },
+  {
+    "date": "2021-08-22",
+    "term_premium": -0.546,
+    "yield_10y": 1.29,
+    "duration_10y": 9.35,
+    "sp500": 4483.7
+  },
+  {
+    "date": "2021-08-29",
+    "term_premium": -0.543,
+    "yield_10y": 1.31,
+    "duration_10y": 9.35,
+    "sp500": 4499.4
+  },
+  {
+    "date": "2021-09-05",
+    "term_premium": -0.539,
+    "yield_10y": 1.32,
+    "duration_10y": 9.34,
+    "sp500": 4515.1
+  },
+  {
+    "date": "2021-09-12",
+    "term_premium": -0.535,
+    "yield_10y": 1.33,
+    "duration_10y": 9.33,
+    "sp500": 4530.7
+  },
+  {
+    "date": "2021-09-19",
+    "term_premium": -0.532,
+    "yield_10y": 1.34,
+    "duration_10y": 9.33,
+    "sp500": 4546.4
+  },
+  {
+    "date": "2021-09-26",
+    "term_premium": -0.528,
+    "yield_10y": 1.36,
+    "duration_10y": 9.32,
+    "sp500": 4562.1
+  },
+  {
+    "date": "2021-10-03",
+    "term_premium": -0.524,
+    "yield_10y": 1.37,
+    "duration_10y": 9.32,
+    "sp500": 4577.8
+  },
+  {
+    "date": "2021-10-10",
+    "term_premium": -0.521,
+    "yield_10y": 1.38,
+    "duration_10y": 9.31,
+    "sp500": 4593.5
+  },
+  {
+    "date": "2021-10-17",
+    "term_premium": -0.517,
+    "yield_10y": 1.39,
+    "duration_10y": 9.3,
+    "sp500": 4609.2
+  },
+  {
+    "date": "2021-10-24",
+    "term_premium": -0.513,
+    "yield_10y": 1.41,
+    "duration_10y": 9.3,
+    "sp500": 4624.8
+  },
+  {
+    "date": "2021-10-31",
+    "term_premium": -0.509,
+    "yield_10y": 1.42,
+    "duration_10y": 9.29,
+    "sp500": 4640.5
+  },
+  {
+    "date": "2021-11-07",
+    "term_premium": -0.506,
+    "yield_10y": 1.43,
+    "duration_10y": 9.29,
+    "sp500": 4656.2
+  },
+  {
+    "date": "2021-11-14",
+    "term_premium": -0.502,
+    "yield_10y": 1.44,
+    "duration_10y": 9.28,
+    "sp500": 4671.9
+  },
+  {
+    "date": "2021-11-21",
+    "term_premium": -0.498,
+    "yield_10y": 1.46,
+    "duration_10y": 9.27,
+    "sp500": 4687.6
+  },
+  {
+    "date": "2021-11-28",
+    "term_premium": -0.495,
+    "yield_10y": 1.47,
+    "duration_10y": 9.27,
+    "sp500": 4703.3
+  },
+  {
+    "date": "2021-12-05",
+    "term_premium": -0.491,
+    "yield_10y": 1.48,
+    "duration_10y": 9.26,
+    "sp500": 4718.9
+  },
+  {
+    "date": "2021-12-12",
+    "term_premium": -0.487,
+    "yield_10y": 1.49,
+    "duration_10y": 9.26,
+    "sp500": 4734.6
+  },
+  {
+    "date": "2021-12-19",
+    "term_premium": -0.484,
+    "yield_10y": 1.51,
+    "duration_10y": 9.25,
+    "sp500": 4750.3
+  },
+  {
+    "date": "2021-12-31",
+    "term_premium": -0.48,
+    "yield_10y": 1.52,
+    "duration_10y": 9.24,
+    "sp500": 4766.0
+  },
+  {
+    "date": "2022-01-07",
+    "term_premium": -0.458,
+    "yield_10y": 1.59,
+    "duration_10y": 9.21,
+    "sp500": 4746.3
+  },
+  {
+    "date": "2022-01-14",
+    "term_premium": -0.437,
+    "yield_10y": 1.65,
+    "duration_10y": 9.18,
+    "sp500": 4726.7
+  },
+  {
+    "date": "2022-01-21",
+    "term_premium": -0.415,
+    "yield_10y": 1.72,
+    "duration_10y": 9.15,
+    "sp500": 4707.0
+  },
+  {
+    "date": "2022-01-28",
+    "term_premium": -0.393,
+    "yield_10y": 1.79,
+    "duration_10y": 9.12,
+    "sp500": 4687.3
+  },
+  {
+    "date": "2022-02-04",
+    "term_premium": -0.372,
+    "yield_10y": 1.85,
+    "duration_10y": 9.09,
+    "sp500": 4667.7
+  },
+  {
+    "date": "2022-02-11",
+    "term_premium": -0.35,
+    "yield_10y": 1.92,
+    "duration_10y": 9.06,
+    "sp500": 4648.0
+  },
+  {
+    "date": "2022-02-18",
+    "term_premium": -0.328,
+    "yield_10y": 1.99,
+    "duration_10y": 9.03,
+    "sp500": 4628.3
+  },
+  {
+    "date": "2022-02-25",
+    "term_premium": -0.307,
+    "yield_10y": 2.05,
+    "duration_10y": 9.0,
+    "sp500": 4608.7
+  },
+  {
+    "date": "2022-03-04",
+    "term_premium": -0.285,
+    "yield_10y": 2.12,
+    "duration_10y": 8.97,
+    "sp500": 4589.0
+  },
+  {
+    "date": "2022-03-11",
+    "term_premium": -0.263,
+    "yield_10y": 2.19,
+    "duration_10y": 8.94,
+    "sp500": 4569.3
+  },
+  {
+    "date": "2022-03-18",
+    "term_premium": -0.242,
+    "yield_10y": 2.25,
+    "duration_10y": 8.91,
+    "sp500": 4549.7
+  },
+  {
+    "date": "2022-03-31",
+    "term_premium": -0.22,
+    "yield_10y": 2.32,
+    "duration_10y": 8.88,
+    "sp500": 4530.0
+  },
+  {
+    "date": "2022-04-07",
+    "term_premium": -0.214,
+    "yield_10y": 2.41,
+    "duration_10y": 8.84,
+    "sp500": 4451.5
+  },
+  {
+    "date": "2022-04-14",
+    "term_premium": -0.207,
+    "yield_10y": 2.5,
+    "duration_10y": 8.8,
+    "sp500": 4372.9
+  },
+  {
+    "date": "2022-04-21",
+    "term_premium": -0.201,
+    "yield_10y": 2.59,
+    "duration_10y": 8.76,
+    "sp500": 4294.4
+  },
+  {
+    "date": "2022-04-28",
+    "term_premium": -0.195,
+    "yield_10y": 2.68,
+    "duration_10y": 8.72,
+    "sp500": 4215.8
+  },
+  {
+    "date": "2022-05-05",
+    "term_premium": -0.188,
+    "yield_10y": 2.77,
+    "duration_10y": 8.68,
+    "sp500": 4137.3
+  },
+  {
+    "date": "2022-05-12",
+    "term_premium": -0.182,
+    "yield_10y": 2.85,
+    "duration_10y": 8.65,
+    "sp500": 4058.7
+  },
+  {
+    "date": "2022-05-19",
+    "term_premium": -0.175,
+    "yield_10y": 2.94,
+    "duration_10y": 8.61,
+    "sp500": 3980.2
+  },
+  {
+    "date": "2022-05-26",
+    "term_premium": -0.169,
+    "yield_10y": 3.03,
+    "duration_10y": 8.57,
+    "sp500": 3901.6
+  },
+  {
+    "date": "2022-06-02",
+    "term_premium": -0.163,
+    "yield_10y": 3.12,
+    "duration_10y": 8.53,
+    "sp500": 3823.1
+  },
+  {
+    "date": "2022-06-09",
+    "term_premium": -0.156,
+    "yield_10y": 3.21,
+    "duration_10y": 8.5,
+    "sp500": 3744.5
+  },
+  {
+    "date": "2022-06-16",
+    "term_premium": -0.15,
+    "yield_10y": 3.3,
+    "duration_10y": 8.46,
+    "sp500": 3666.0
+  },
+  {
+    "date": "2022-06-23",
+    "term_premium": -0.134,
+    "yield_10y": 3.34,
+    "duration_10y": 8.44,
+    "sp500": 3661.1
+  },
+  {
+    "date": "2022-06-30",
+    "term_premium": -0.118,
+    "yield_10y": 3.38,
+    "duration_10y": 8.42,
+    "sp500": 3656.2
+  },
+  {
+    "date": "2022-07-07",
+    "term_premium": -0.102,
+    "yield_10y": 3.43,
+    "duration_10y": 8.41,
+    "sp500": 3651.4
+  },
+  {
+    "date": "2022-07-14",
+    "term_premium": -0.086,
+    "yield_10y": 3.47,
+    "duration_10y": 8.39,
+    "sp500": 3646.5
+  },
+  {
+    "date": "2022-07-21",
+    "term_premium": -0.071,
+    "yield_10y": 3.51,
+    "duration_10y": 8.37,
+    "sp500": 3641.6
+  },
+  {
+    "date": "2022-07-28",
+    "term_premium": -0.055,
+    "yield_10y": 3.55,
+    "duration_10y": 8.35,
+    "sp500": 3636.7
+  },
+  {
+    "date": "2022-08-04",
+    "term_premium": -0.039,
+    "yield_10y": 3.6,
+    "duration_10y": 8.34,
+    "sp500": 3631.8
+  },
+  {
+    "date": "2022-08-11",
+    "term_premium": -0.023,
+    "yield_10y": 3.64,
+    "duration_10y": 8.32,
+    "sp500": 3626.9
+  },
+  {
+    "date": "2022-08-18",
+    "term_premium": -0.007,
+    "yield_10y": 3.68,
+    "duration_10y": 8.3,
+    "sp500": 3622.1
+  },
+  {
+    "date": "2022-08-25",
+    "term_premium": 0.009,
+    "yield_10y": 3.72,
+    "duration_10y": 8.29,
+    "sp500": 3617.2
+  },
+  {
+    "date": "2022-09-01",
+    "term_premium": 0.025,
+    "yield_10y": 3.77,
+    "duration_10y": 8.27,
+    "sp500": 3612.3
+  },
+  {
+    "date": "2022-09-08",
+    "term_premium": 0.041,
+    "yield_10y": 3.81,
+    "duration_10y": 8.25,
+    "sp500": 3607.4
+  },
+  {
+    "date": "2022-09-15",
+    "term_premium": 0.056,
+    "yield_10y": 3.85,
+    "duration_10y": 8.23,
+    "sp500": 3602.5
+  },
+  {
+    "date": "2022-09-22",
+    "term_premium": 0.072,
+    "yield_10y": 3.89,
+    "duration_10y": 8.22,
+    "sp500": 3597.6
+  },
+  {
+    "date": "2022-09-29",
+    "term_premium": 0.088,
+    "yield_10y": 3.94,
+    "duration_10y": 8.2,
+    "sp500": 3592.8
+  },
+  {
+    "date": "2022-10-06",
+    "term_premium": 0.104,
+    "yield_10y": 3.98,
+    "duration_10y": 8.18,
+    "sp500": 3587.9
+  },
+  {
+    "date": "2022-10-14",
+    "term_premium": 0.12,
+    "yield_10y": 4.02,
+    "duration_10y": 8.17,
+    "sp500": 3583.0
+  },
+  {
+    "date": "2022-10-21",
+    "term_premium": 0.08,
+    "yield_10y": 4.01,
+    "duration_10y": 8.17,
+    "sp500": 3606.3
+  },
+  {
+    "date": "2022-10-28",
+    "term_premium": 0.04,
+    "yield_10y": 3.99,
+    "duration_10y": 8.18,
+    "sp500": 3629.5
+  },
+  {
+    "date": "2022-11-04",
+    "term_premium": 0.0,
+    "yield_10y": 3.98,
+    "duration_10y": 8.18,
+    "sp500": 3652.8
+  },
+  {
+    "date": "2022-11-11",
+    "term_premium": -0.04,
+    "yield_10y": 3.97,
+    "duration_10y": 8.19,
+    "sp500": 3676.1
+  },
+  {
+    "date": "2022-11-18",
+    "term_premium": -0.08,
+    "yield_10y": 3.96,
+    "duration_10y": 8.19,
+    "sp500": 3699.4
+  },
+  {
+    "date": "2022-11-25",
+    "term_premium": -0.12,
+    "yield_10y": 3.94,
+    "duration_10y": 8.2,
+    "sp500": 3722.6
+  },
+  {
+    "date": "2022-12-02",
+    "term_premium": -0.16,
+    "yield_10y": 3.93,
+    "duration_10y": 8.2,
+    "sp500": 3745.9
+  },
+  {
+    "date": "2022-12-09",
+    "term_premium": -0.2,
+    "yield_10y": 3.92,
+    "duration_10y": 8.21,
+    "sp500": 3769.2
+  },
+  {
+    "date": "2022-12-16",
+    "term_premium": -0.24,
+    "yield_10y": 3.91,
+    "duration_10y": 8.21,
+    "sp500": 3792.5
+  },
+  {
+    "date": "2022-12-23",
+    "term_premium": -0.28,
+    "yield_10y": 3.89,
+    "duration_10y": 8.22,
+    "sp500": 3815.7
+  },
+  {
+    "date": "2022-12-31",
+    "term_premium": -0.32,
+    "yield_10y": 3.88,
+    "duration_10y": 8.22,
+    "sp500": 3839.0
+  },
+  {
+    "date": "2023-01-07",
+    "term_premium": -0.353,
+    "yield_10y": 3.86,
+    "duration_10y": 8.23,
+    "sp500": 3841.4
+  },
+  {
+    "date": "2023-01-14",
+    "term_premium": -0.387,
+    "yield_10y": 3.84,
+    "duration_10y": 8.24,
+    "sp500": 3843.9
+  },
+  {
+    "date": "2023-01-21",
+    "term_premium": -0.42,
+    "yield_10y": 3.82,
+    "duration_10y": 8.25,
+    "sp500": 3846.3
+  },
+  {
+    "date": "2023-01-28",
+    "term_premium": -0.453,
+    "yield_10y": 3.8,
+    "duration_10y": 8.26,
+    "sp500": 3848.8
+  },
+  {
+    "date": "2023-02-04",
+    "term_premium": -0.487,
+    "yield_10y": 3.78,
+    "duration_10y": 8.26,
+    "sp500": 3851.2
+  },
+  {
+    "date": "2023-02-11",
+    "term_premium": -0.52,
+    "yield_10y": 3.76,
+    "duration_10y": 8.27,
+    "sp500": 3853.7
+  },
+  {
+    "date": "2023-02-18",
+    "term_premium": -0.553,
+    "yield_10y": 3.74,
+    "duration_10y": 8.28,
+    "sp500": 3856.1
+  },
+  {
+    "date": "2023-02-25",
+    "term_premium": -0.587,
+    "yield_10y": 3.72,
+    "duration_10y": 8.29,
+    "sp500": 3858.6
+  },
+  {
+    "date": "2023-03-10",
+    "term_premium": -0.62,
+    "yield_10y": 3.7,
+    "duration_10y": 8.3,
+    "sp500": 3861.0
+  },
+  {
+    "date": "2023-03-17",
+    "term_premium": -0.627,
+    "yield_10y": 3.68,
+    "duration_10y": 8.3,
+    "sp500": 3891.6
+  },
+  {
+    "date": "2023-03-24",
+    "term_premium": -0.633,
+    "yield_10y": 3.66,
+    "duration_10y": 8.31,
+    "sp500": 3922.1
+  },
+  {
+    "date": "2023-03-31",
+    "term_premium": -0.64,
+    "yield_10y": 3.63,
+    "duration_10y": 8.32,
+    "sp500": 3952.7
+  },
+  {
+    "date": "2023-04-07",
+    "term_premium": -0.647,
+    "yield_10y": 3.61,
+    "duration_10y": 8.33,
+    "sp500": 3983.2
+  },
+  {
+    "date": "2023-04-14",
+    "term_premium": -0.653,
+    "yield_10y": 3.59,
+    "duration_10y": 8.34,
+    "sp500": 4013.8
+  },
+  {
+    "date": "2023-04-21",
+    "term_premium": -0.66,
+    "yield_10y": 3.57,
+    "duration_10y": 8.35,
+    "sp500": 4044.3
+  },
+  {
+    "date": "2023-04-28",
+    "term_premium": -0.667,
+    "yield_10y": 3.54,
+    "duration_10y": 8.36,
+    "sp500": 4074.9
+  },
+  {
+    "date": "2023-05-05",
+    "term_premium": -0.673,
+    "yield_10y": 3.52,
+    "duration_10y": 8.37,
+    "sp500": 4105.4
+  },
+  {
+    "date": "2023-05-15",
+    "term_premium": -0.68,
+    "yield_10y": 3.5,
+    "duration_10y": 8.38,
+    "sp500": 4136.0
+  },
+  {
+    "date": "2023-05-22",
+    "term_premium": -0.66,
+    "yield_10y": 3.54,
+    "duration_10y": 8.36,
+    "sp500": 4182.1
+  },
+  {
+    "date": "2023-05-29",
+    "term_premium": -0.64,
+    "yield_10y": 3.58,
+    "duration_10y": 8.34,
+    "sp500": 4228.2
+  },
+  {
+    "date": "2023-06-05",
+    "term_premium": -0.62,
+    "yield_10y": 3.62,
+    "duration_10y": 8.33,
+    "sp500": 4274.4
+  },
+  {
+    "date": "2023-06-12",
+    "term_premium": -0.6,
+    "yield_10y": 3.66,
+    "duration_10y": 8.31,
+    "sp500": 4320.5
+  },
+  {
+    "date": "2023-06-19",
+    "term_premium": -0.58,
+    "yield_10y": 3.69,
+    "duration_10y": 8.3,
+    "sp500": 4366.6
+  },
+  {
+    "date": "2023-06-26",
+    "term_premium": -0.56,
+    "yield_10y": 3.73,
+    "duration_10y": 8.28,
+    "sp500": 4412.8
+  },
+  {
+    "date": "2023-07-03",
+    "term_premium": -0.54,
+    "yield_10y": 3.77,
+    "duration_10y": 8.27,
+    "sp500": 4458.9
+  },
+  {
+    "date": "2023-07-14",
+    "term_premium": -0.52,
+    "yield_10y": 3.81,
+    "duration_10y": 8.25,
+    "sp500": 4505.0
+  },
+  {
+    "date": "2023-07-21",
+    "term_premium": -0.485,
+    "yield_10y": 3.89,
+    "duration_10y": 8.22,
+    "sp500": 4546.5
+  },
+  {
+    "date": "2023-07-31",
+    "term_premium": -0.45,
+    "yield_10y": 3.97,
+    "duration_10y": 8.19,
+    "sp500": 4588.0
+  },
+  {
+    "date": "2023-08-07",
+    "term_premium": -0.383,
+    "yield_10y": 4.0,
+    "duration_10y": 8.18,
+    "sp500": 4567.8
+  },
+  {
+    "date": "2023-08-14",
+    "term_premium": -0.315,
+    "yield_10y": 4.03,
+    "duration_10y": 8.16,
+    "sp500": 4547.5
+  },
+  {
+    "date": "2023-08-21",
+    "term_premium": -0.247,
+    "yield_10y": 4.06,
+    "duration_10y": 8.15,
+    "sp500": 4527.2
+  },
+  {
+    "date": "2023-08-31",
+    "term_premium": -0.18,
+    "yield_10y": 4.09,
+    "duration_10y": 8.14,
+    "sp500": 4507.0
+  },
+  {
+    "date": "2023-09-07",
+    "term_premium": -0.098,
+    "yield_10y": 4.21,
+    "duration_10y": 8.09,
+    "sp500": 4452.2
+  },
+  {
+    "date": "2023-09-14",
+    "term_premium": -0.015,
+    "yield_10y": 4.34,
+    "duration_10y": 8.04,
+    "sp500": 4397.5
+  },
+  {
+    "date": "2023-09-21",
+    "term_premium": 0.067,
+    "yield_10y": 4.46,
+    "duration_10y": 8.0,
+    "sp500": 4342.8
+  },
+  {
+    "date": "2023-09-30",
+    "term_premium": 0.15,
+    "yield_10y": 4.59,
+    "duration_10y": 7.95,
+    "sp500": 4288.0
+  },
+  {
+    "date": "2023-10-07",
+    "term_premium": 0.24,
+    "yield_10y": 4.79,
+    "duration_10y": 7.87,
+    "sp500": 4283.0
+  },
+  {
+    "date": "2023-10-19",
+    "term_premium": 0.33,
+    "yield_10y": 4.98,
+    "duration_10y": 7.8,
+    "sp500": 4278.0
+  },
+  {
+    "date": "2023-10-27",
+    "term_premium": 0.28,
+    "yield_10y": 4.85,
+    "duration_10y": 7.85,
+    "sp500": 4117.0
+  },
+  {
+    "date": "2023-11-03",
+    "term_premium": 0.198,
+    "yield_10y": 4.73,
+    "duration_10y": 7.89,
+    "sp500": 4229.5
+  },
+  {
+    "date": "2023-11-10",
+    "term_premium": 0.115,
+    "yield_10y": 4.61,
+    "duration_10y": 7.94,
+    "sp500": 4342.0
+  },
+  {
+    "date": "2023-11-17",
+    "term_premium": 0.033,
+    "yield_10y": 4.49,
+    "duration_10y": 7.99,
+    "sp500": 4454.5
+  },
+  {
+    "date": "2023-11-30",
+    "term_premium": -0.05,
+    "yield_10y": 4.37,
+    "duration_10y": 8.03,
+    "sp500": 4567.0
+  },
+  {
+    "date": "2023-12-07",
+    "term_premium": -0.1,
+    "yield_10y": 4.25,
+    "duration_10y": 8.08,
+    "sp500": 4617.5
+  },
+  {
+    "date": "2023-12-14",
+    "term_premium": -0.15,
+    "yield_10y": 4.12,
+    "duration_10y": 8.13,
+    "sp500": 4668.0
+  },
+  {
+    "date": "2023-12-21",
+    "term_premium": -0.2,
+    "yield_10y": 4.0,
+    "duration_10y": 8.17,
+    "sp500": 4718.5
+  },
+  {
+    "date": "2023-12-31",
+    "term_premium": -0.25,
+    "yield_10y": 3.88,
+    "duration_10y": 8.22,
+    "sp500": 4769.0
+  },
+  {
+    "date": "2024-01-07",
+    "term_premium": -0.233,
+    "yield_10y": 3.94,
+    "duration_10y": 8.2,
+    "sp500": 4812.3
+  },
+  {
+    "date": "2024-01-14",
+    "term_premium": -0.217,
+    "yield_10y": 4.0,
+    "duration_10y": 8.17,
+    "sp500": 4855.7
+  },
+  {
+    "date": "2024-01-21",
+    "term_premium": -0.2,
+    "yield_10y": 4.06,
+    "duration_10y": 8.15,
+    "sp500": 4899.0
+  },
+  {
+    "date": "2024-01-28",
+    "term_premium": -0.183,
+    "yield_10y": 4.13,
+    "duration_10y": 8.13,
+    "sp500": 4942.3
+  },
+  {
+    "date": "2024-02-04",
+    "term_premium": -0.167,
+    "yield_10y": 4.19,
+    "duration_10y": 8.1,
+    "sp500": 4985.7
+  },
+  {
+    "date": "2024-02-15",
+    "term_premium": -0.15,
+    "yield_10y": 4.25,
+    "duration_10y": 8.08,
+    "sp500": 5029.0
+  },
+  {
+    "date": "2024-02-22",
+    "term_premium": -0.117,
+    "yield_10y": 4.29,
+    "duration_10y": 8.06,
+    "sp500": 5030.9
+  },
+  {
+    "date": "2024-02-29",
+    "term_premium": -0.084,
+    "yield_10y": 4.34,
+    "duration_10y": 8.04,
+    "sp500": 5032.8
+  },
+  {
+    "date": "2024-03-07",
+    "term_premium": -0.051,
+    "yield_10y": 4.38,
+    "duration_10y": 8.03,
+    "sp500": 5034.7
+  },
+  {
+    "date": "2024-03-14",
+    "term_premium": -0.018,
+    "yield_10y": 4.43,
+    "duration_10y": 8.01,
+    "sp500": 5036.6
+  },
+  {
+    "date": "2024-03-21",
+    "term_premium": 0.015,
+    "yield_10y": 4.47,
+    "duration_10y": 7.99,
+    "sp500": 5038.5
+  },
+  {
+    "date": "2024-03-28",
+    "term_premium": 0.048,
+    "yield_10y": 4.52,
+    "duration_10y": 7.97,
+    "sp500": 5040.4
+  },
+  {
+    "date": "2024-04-04",
+    "term_premium": 0.081,
+    "yield_10y": 4.57,
+    "duration_10y": 7.96,
+    "sp500": 5042.3
+  },
+  {
+    "date": "2024-04-11",
+    "term_premium": 0.114,
+    "yield_10y": 4.61,
+    "duration_10y": 7.94,
+    "sp500": 5044.2
+  },
+  {
+    "date": "2024-04-18",
+    "term_premium": 0.147,
+    "yield_10y": 4.66,
+    "duration_10y": 7.92,
+    "sp500": 5046.1
+  },
+  {
+    "date": "2024-04-25",
+    "term_premium": 0.18,
+    "yield_10y": 4.7,
+    "duration_10y": 7.91,
+    "sp500": 5048.0
+  },
+  {
+    "date": "2024-05-02",
+    "term_premium": 0.155,
+    "yield_10y": 4.66,
+    "duration_10y": 7.92,
+    "sp500": 5101.0
+  },
+  {
+    "date": "2024-05-09",
+    "term_premium": 0.129,
+    "yield_10y": 4.61,
+    "duration_10y": 7.94,
+    "sp500": 5154.0
+  },
+  {
+    "date": "2024-05-16",
+    "term_premium": 0.104,
+    "yield_10y": 4.57,
+    "duration_10y": 7.95,
+    "sp500": 5207.0
+  },
+  {
+    "date": "2024-05-23",
+    "term_premium": 0.078,
+    "yield_10y": 4.53,
+    "duration_10y": 7.97,
+    "sp500": 5260.0
+  },
+  {
+    "date": "2024-05-30",
+    "term_premium": 0.053,
+    "yield_10y": 4.49,
+    "duration_10y": 7.99,
+    "sp500": 5313.0
+  },
+  {
+    "date": "2024-06-06",
+    "term_premium": 0.027,
+    "yield_10y": 4.44,
+    "duration_10y": 8.0,
+    "sp500": 5366.0
+  },
+  {
+    "date": "2024-06-13",
+    "term_premium": 0.002,
+    "yield_10y": 4.4,
+    "duration_10y": 8.02,
+    "sp500": 5419.0
+  },
+  {
+    "date": "2024-06-20",
+    "term_premium": -0.024,
+    "yield_10y": 4.36,
+    "duration_10y": 8.04,
+    "sp500": 5472.0
+  },
+  {
+    "date": "2024-06-27",
+    "term_premium": -0.049,
+    "yield_10y": 4.32,
+    "duration_10y": 8.05,
+    "sp500": 5525.0
+  },
+  {
+    "date": "2024-07-04",
+    "term_premium": -0.075,
+    "yield_10y": 4.27,
+    "duration_10y": 8.07,
+    "sp500": 5578.0
+  },
+  {
+    "date": "2024-07-15",
+    "term_premium": -0.1,
+    "yield_10y": 4.23,
+    "duration_10y": 8.09,
+    "sp500": 5631.0
+  },
+  {
+    "date": "2024-07-22",
+    "term_premium": -0.086,
+    "yield_10y": 4.21,
+    "duration_10y": 8.09,
+    "sp500": 5645.2
+  },
+  {
+    "date": "2024-07-29",
+    "term_premium": -0.072,
+    "yield_10y": 4.2,
+    "duration_10y": 8.1,
+    "sp500": 5659.3
+  },
+  {
+    "date": "2024-08-05",
+    "term_premium": -0.058,
+    "yield_10y": 4.18,
+    "duration_10y": 8.1,
+    "sp500": 5673.5
+  },
+  {
+    "date": "2024-08-12",
+    "term_premium": -0.045,
+    "yield_10y": 4.17,
+    "duration_10y": 8.11,
+    "sp500": 5687.6
+  },
+  {
+    "date": "2024-08-19",
+    "term_premium": -0.031,
+    "yield_10y": 4.15,
+    "duration_10y": 8.12,
+    "sp500": 5701.8
+  },
+  {
+    "date": "2024-08-26",
+    "term_premium": -0.017,
+    "yield_10y": 4.14,
+    "duration_10y": 8.12,
+    "sp500": 5715.9
+  },
+  {
+    "date": "2024-09-02",
+    "term_premium": -0.003,
+    "yield_10y": 4.12,
+    "duration_10y": 8.13,
+    "sp500": 5730.1
+  },
+  {
+    "date": "2024-09-09",
+    "term_premium": 0.011,
+    "yield_10y": 4.11,
+    "duration_10y": 8.13,
+    "sp500": 5744.2
+  },
+  {
+    "date": "2024-09-16",
+    "term_premium": 0.025,
+    "yield_10y": 4.09,
+    "duration_10y": 8.14,
+    "sp500": 5758.4
+  },
+  {
+    "date": "2024-09-23",
+    "term_premium": 0.038,
+    "yield_10y": 4.08,
+    "duration_10y": 8.15,
+    "sp500": 5772.5
+  },
+  {
+    "date": "2024-09-30",
+    "term_premium": 0.052,
+    "yield_10y": 4.06,
+    "duration_10y": 8.15,
+    "sp500": 5786.7
+  },
+  {
+    "date": "2024-10-07",
+    "term_premium": 0.066,
+    "yield_10y": 4.05,
+    "duration_10y": 8.16,
+    "sp500": 5800.8
+  },
+  {
+    "date": "2024-10-15",
+    "term_premium": 0.08,
+    "yield_10y": 4.03,
+    "duration_10y": 8.16,
+    "sp500": 5815.0
+  },
+  {
+    "date": "2024-10-22",
+    "term_premium": 0.086,
+    "yield_10y": 4.07,
+    "duration_10y": 8.15,
+    "sp500": 5827.3
+  },
+  {
+    "date": "2024-10-29",
+    "term_premium": 0.093,
+    "yield_10y": 4.11,
+    "duration_10y": 8.13,
+    "sp500": 5839.5
+  },
+  {
+    "date": "2024-11-05",
+    "term_premium": 0.099,
+    "yield_10y": 4.14,
+    "duration_10y": 8.12,
+    "sp500": 5851.8
+  },
+  {
+    "date": "2024-11-12",
+    "term_premium": 0.105,
+    "yield_10y": 4.18,
+    "duration_10y": 8.1,
+    "sp500": 5864.1
+  },
+  {
+    "date": "2024-11-19",
+    "term_premium": 0.112,
+    "yield_10y": 4.22,
+    "duration_10y": 8.09,
+    "sp500": 5876.4
+  },
+  {
+    "date": "2024-11-26",
+    "term_premium": 0.118,
+    "yield_10y": 4.26,
+    "duration_10y": 8.07,
+    "sp500": 5888.6
+  },
+  {
+    "date": "2024-12-03",
+    "term_premium": 0.125,
+    "yield_10y": 4.3,
+    "duration_10y": 8.06,
+    "sp500": 5900.9
+  },
+  {
+    "date": "2024-12-10",
+    "term_premium": 0.131,
+    "yield_10y": 4.34,
+    "duration_10y": 8.04,
+    "sp500": 5913.2
+  },
+  {
+    "date": "2024-12-17",
+    "term_premium": 0.137,
+    "yield_10y": 4.37,
+    "duration_10y": 8.03,
+    "sp500": 5925.5
+  },
+  {
+    "date": "2024-12-24",
+    "term_premium": 0.144,
+    "yield_10y": 4.41,
+    "duration_10y": 8.02,
+    "sp500": 5937.7
+  },
+  {
+    "date": "2024-12-31",
+    "term_premium": 0.15,
+    "yield_10y": 4.45,
+    "duration_10y": 8.0,
+    "sp500": 5950.0
+  },
+  {
+    "date": "2025-01-07",
+    "term_premium": 0.148,
+    "yield_10y": 4.44,
+    "duration_10y": 8.0,
+    "sp500": 5961.3
+  },
+  {
+    "date": "2025-01-14",
+    "term_premium": 0.146,
+    "yield_10y": 4.44,
+    "duration_10y": 8.01,
+    "sp500": 5972.7
+  },
+  {
+    "date": "2025-01-21",
+    "term_premium": 0.144,
+    "yield_10y": 4.43,
+    "duration_10y": 8.01,
+    "sp500": 5984.0
+  },
+  {
+    "date": "2025-01-28",
+    "term_premium": 0.142,
+    "yield_10y": 4.42,
+    "duration_10y": 8.01,
+    "sp500": 5995.3
+  },
+  {
+    "date": "2025-02-04",
+    "term_premium": 0.14,
+    "yield_10y": 4.42,
+    "duration_10y": 8.01,
+    "sp500": 6006.7
+  },
+  {
+    "date": "2025-02-11",
+    "term_premium": 0.138,
+    "yield_10y": 4.41,
+    "duration_10y": 8.02,
+    "sp500": 6018.0
+  },
+  {
+    "date": "2025-02-18",
+    "term_premium": 0.136,
+    "yield_10y": 4.4,
+    "duration_10y": 8.02,
+    "sp500": 6029.3
+  },
+  {
+    "date": "2025-02-25",
+    "term_premium": 0.134,
+    "yield_10y": 4.4,
+    "duration_10y": 8.02,
+    "sp500": 6040.7
+  },
+  {
+    "date": "2025-03-04",
+    "term_premium": 0.132,
+    "yield_10y": 4.39,
+    "duration_10y": 8.02,
+    "sp500": 6052.0
+  },
+  {
+    "date": "2025-03-11",
+    "term_premium": 0.13,
+    "yield_10y": 4.38,
+    "duration_10y": 8.03,
+    "sp500": 6063.3
+  },
+  {
+    "date": "2025-03-18",
+    "term_premium": 0.128,
+    "yield_10y": 4.38,
+    "duration_10y": 8.03,
+    "sp500": 6074.7
+  },
+  {
+    "date": "2025-03-25",
+    "term_premium": 0.126,
+    "yield_10y": 4.37,
+    "duration_10y": 8.03,
+    "sp500": 6086.0
+  },
+  {
+    "date": "2025-04-01",
+    "term_premium": 0.124,
+    "yield_10y": 4.36,
+    "duration_10y": 8.03,
+    "sp500": 6097.3
+  },
+  {
+    "date": "2025-04-08",
+    "term_premium": 0.122,
+    "yield_10y": 4.36,
+    "duration_10y": 8.04,
+    "sp500": 6108.7
+  },
+  {
+    "date": "2025-04-15",
+    "term_premium": 0.12,
+    "yield_10y": 4.35,
+    "duration_10y": 8.04,
+    "sp500": 6120.0
+  },
+  {
+    "date": "2025-04-22",
+    "term_premium": 0.126,
+    "yield_10y": 4.36,
+    "duration_10y": 8.03,
+    "sp500": 6129.4
+  },
+  {
+    "date": "2025-04-29",
+    "term_premium": 0.132,
+    "yield_10y": 4.37,
+    "duration_10y": 8.03,
+    "sp500": 6138.8
+  },
+  {
+    "date": "2025-05-06",
+    "term_premium": 0.138,
+    "yield_10y": 4.39,
+    "duration_10y": 8.03,
+    "sp500": 6148.2
+  },
+  {
+    "date": "2025-05-13",
+    "term_premium": 0.144,
+    "yield_10y": 4.4,
+    "duration_10y": 8.02,
+    "sp500": 6157.6
+  },
+  {
+    "date": "2025-05-20",
+    "term_premium": 0.149,
+    "yield_10y": 4.41,
+    "duration_10y": 8.02,
+    "sp500": 6167.1
+  },
+  {
+    "date": "2025-05-27",
+    "term_premium": 0.155,
+    "yield_10y": 4.42,
+    "duration_10y": 8.01,
+    "sp500": 6176.5
+  },
+  {
+    "date": "2025-06-03",
+    "term_premium": 0.161,
+    "yield_10y": 4.43,
+    "duration_10y": 8.01,
+    "sp500": 6185.9
+  },
+  {
+    "date": "2025-06-10",
+    "term_premium": 0.167,
+    "yield_10y": 4.44,
+    "duration_10y": 8.0,
+    "sp500": 6195.3
+  },
+  {
+    "date": "2025-06-17",
+    "term_premium": 0.173,
+    "yield_10y": 4.46,
+    "duration_10y": 8.0,
+    "sp500": 6204.7
+  },
+  {
+    "date": "2025-06-24",
+    "term_premium": 0.179,
+    "yield_10y": 4.47,
+    "duration_10y": 7.99,
+    "sp500": 6214.1
+  },
+  {
+    "date": "2025-07-01",
+    "term_premium": 0.185,
+    "yield_10y": 4.48,
+    "duration_10y": 7.99,
+    "sp500": 6223.5
+  },
+  {
+    "date": "2025-07-08",
+    "term_premium": 0.191,
+    "yield_10y": 4.49,
+    "duration_10y": 7.99,
+    "sp500": 6232.9
+  },
+  {
+    "date": "2025-07-15",
+    "term_premium": 0.196,
+    "yield_10y": 4.5,
+    "duration_10y": 7.98,
+    "sp500": 6242.4
+  },
+  {
+    "date": "2025-07-22",
+    "term_premium": 0.202,
+    "yield_10y": 4.51,
+    "duration_10y": 7.98,
+    "sp500": 6251.8
+  },
+  {
+    "date": "2025-07-29",
+    "term_premium": 0.208,
+    "yield_10y": 4.53,
+    "duration_10y": 7.97,
+    "sp500": 6261.2
+  },
+  {
+    "date": "2025-08-05",
+    "term_premium": 0.214,
+    "yield_10y": 4.54,
+    "duration_10y": 7.97,
+    "sp500": 6270.6
+  },
+  {
+    "date": "2025-08-15",
+    "term_premium": 0.22,
+    "yield_10y": 4.55,
+    "duration_10y": 7.96,
+    "sp500": 6280.0
+  },
+  {
+    "date": "2025-08-22",
+    "term_premium": 0.218,
+    "yield_10y": 4.54,
+    "duration_10y": 7.97,
+    "sp500": 6288.9
+  },
+  {
+    "date": "2025-08-29",
+    "term_premium": 0.216,
+    "yield_10y": 4.52,
+    "duration_10y": 7.97,
+    "sp500": 6297.9
+  },
+  {
+    "date": "2025-09-05",
+    "term_premium": 0.214,
+    "yield_10y": 4.51,
+    "duration_10y": 7.98,
+    "sp500": 6306.8
+  },
+  {
+    "date": "2025-09-12",
+    "term_premium": 0.212,
+    "yield_10y": 4.5,
+    "duration_10y": 7.98,
+    "sp500": 6315.8
+  },
+  {
+    "date": "2025-09-19",
+    "term_premium": 0.209,
+    "yield_10y": 4.48,
+    "duration_10y": 7.99,
+    "sp500": 6324.7
+  },
+  {
+    "date": "2025-09-26",
+    "term_premium": 0.207,
+    "yield_10y": 4.47,
+    "duration_10y": 7.99,
+    "sp500": 6333.7
+  },
+  {
+    "date": "2025-10-03",
+    "term_premium": 0.205,
+    "yield_10y": 4.46,
+    "duration_10y": 8.0,
+    "sp500": 6342.6
+  },
+  {
+    "date": "2025-10-10",
+    "term_premium": 0.203,
+    "yield_10y": 4.44,
+    "duration_10y": 8.0,
+    "sp500": 6351.6
+  },
+  {
+    "date": "2025-10-17",
+    "term_premium": 0.201,
+    "yield_10y": 4.43,
+    "duration_10y": 8.01,
+    "sp500": 6360.5
+  },
+  {
+    "date": "2025-10-24",
+    "term_premium": 0.199,
+    "yield_10y": 4.42,
+    "duration_10y": 8.01,
+    "sp500": 6369.5
+  },
+  {
+    "date": "2025-10-31",
+    "term_premium": 0.197,
+    "yield_10y": 4.41,
+    "duration_10y": 8.02,
+    "sp500": 6378.4
+  },
+  {
+    "date": "2025-11-07",
+    "term_premium": 0.195,
+    "yield_10y": 4.39,
+    "duration_10y": 8.02,
+    "sp500": 6387.4
+  },
+  {
+    "date": "2025-11-14",
+    "term_premium": 0.193,
+    "yield_10y": 4.38,
+    "duration_10y": 8.03,
+    "sp500": 6396.3
+  },
+  {
+    "date": "2025-11-21",
+    "term_premium": 0.191,
+    "yield_10y": 4.37,
+    "duration_10y": 8.03,
+    "sp500": 6405.3
+  },
+  {
+    "date": "2025-11-28",
+    "term_premium": 0.188,
+    "yield_10y": 4.35,
+    "duration_10y": 8.04,
+    "sp500": 6414.2
+  },
+  {
+    "date": "2025-12-05",
+    "term_premium": 0.186,
+    "yield_10y": 4.34,
+    "duration_10y": 8.04,
+    "sp500": 6423.2
+  },
+  {
+    "date": "2025-12-12",
+    "term_premium": 0.184,
+    "yield_10y": 4.33,
+    "duration_10y": 8.05,
+    "sp500": 6432.1
+  },
+  {
+    "date": "2025-12-19",
+    "term_premium": 0.182,
+    "yield_10y": 4.31,
+    "duration_10y": 8.05,
+    "sp500": 6441.1
+  },
+  {
+    "date": "2025-12-31",
+    "term_premium": 0.18,
+    "yield_10y": 4.3,
+    "duration_10y": 8.06,
+    "sp500": 6450.0
+  },
+  {
+    "date": "2026-01-07",
+    "term_premium": 0.178,
+    "yield_10y": 4.29,
+    "duration_10y": 8.06,
+    "sp500": 6460.0
+  },
+  {
+    "date": "2026-01-14",
+    "term_premium": 0.176,
+    "yield_10y": 4.29,
+    "duration_10y": 8.06,
+    "sp500": 6470.0
+  },
+  {
+    "date": "2026-01-21",
+    "term_premium": 0.174,
+    "yield_10y": 4.28,
+    "duration_10y": 8.07,
+    "sp500": 6480.0
+  },
+  {
+    "date": "2026-01-28",
+    "term_premium": 0.172,
+    "yield_10y": 4.27,
+    "duration_10y": 8.07,
+    "sp500": 6490.0
+  },
+  {
+    "date": "2026-02-04",
+    "term_premium": 0.17,
+    "yield_10y": 4.27,
+    "duration_10y": 8.07,
+    "sp500": 6500.0
+  },
+  {
+    "date": "2026-02-11",
+    "term_premium": 0.168,
+    "yield_10y": 4.26,
+    "duration_10y": 8.07,
+    "sp500": 6510.0
+  },
+  {
+    "date": "2026-02-18",
+    "term_premium": 0.166,
+    "yield_10y": 4.25,
+    "duration_10y": 8.08,
+    "sp500": 6520.0
+  },
+  {
+    "date": "2026-02-25",
+    "term_premium": 0.164,
+    "yield_10y": 4.25,
+    "duration_10y": 8.08,
+    "sp500": 6530.0
+  },
+  {
+    "date": "2026-03-04",
+    "term_premium": 0.162,
+    "yield_10y": 4.24,
+    "duration_10y": 8.08,
+    "sp500": 6540.0
+  },
+  {
+    "date": "2026-03-11",
+    "term_premium": 0.16,
+    "yield_10y": 4.23,
+    "duration_10y": 8.08,
+    "sp500": 6550.0
+  },
+  {
+    "date": "2026-03-18",
+    "term_premium": 0.158,
+    "yield_10y": 4.23,
+    "duration_10y": 8.09,
+    "sp500": 6560.0
+  },
+  {
+    "date": "2026-03-25",
+    "term_premium": 0.156,
+    "yield_10y": 4.22,
+    "duration_10y": 8.09,
+    "sp500": 6570.0
+  },
+  {
+    "date": "2026-04-01",
+    "term_premium": 0.154,
+    "yield_10y": 4.21,
+    "duration_10y": 8.09,
+    "sp500": 6580.0
+  },
+  {
+    "date": "2026-04-08",
+    "term_premium": 0.152,
+    "yield_10y": 4.21,
+    "duration_10y": 8.09,
+    "sp500": 6590.0
+  },
+  {
+    "date": "2026-04-15",
+    "term_premium": 0.15,
+    "yield_10y": 4.2,
+    "duration_10y": 8.1,
+    "sp500": 6600.0
+  },
+  {
+    "date": "2026-04-22",
+    "term_premium": 0.156,
+    "yield_10y": 4.21,
+    "duration_10y": 8.09,
+    "sp500": 6608.8
+  },
+  {
+    "date": "2026-04-29",
+    "term_premium": 0.162,
+    "yield_10y": 4.22,
+    "duration_10y": 8.09,
+    "sp500": 6617.6
+  },
+  {
+    "date": "2026-05-06",
+    "term_premium": 0.168,
+    "yield_10y": 4.24,
+    "duration_10y": 8.08,
+    "sp500": 6626.5
+  },
+  {
+    "date": "2026-05-13",
+    "term_premium": 0.174,
+    "yield_10y": 4.25,
+    "duration_10y": 8.08,
+    "sp500": 6635.3
+  },
+  {
+    "date": "2026-05-20",
+    "term_premium": 0.179,
+    "yield_10y": 4.26,
+    "duration_10y": 8.07,
+    "sp500": 6644.1
+  },
+  {
+    "date": "2026-05-27",
+    "term_premium": 0.185,
+    "yield_10y": 4.27,
+    "duration_10y": 8.07,
+    "sp500": 6652.9
+  },
+  {
+    "date": "2026-06-03",
+    "term_premium": 0.191,
+    "yield_10y": 4.28,
+    "duration_10y": 8.07,
+    "sp500": 6661.8
+  },
+  {
+    "date": "2026-06-10",
+    "term_premium": 0.197,
+    "yield_10y": 4.29,
+    "duration_10y": 8.06,
+    "sp500": 6670.6
+  },
+  {
+    "date": "2026-06-17",
+    "term_premium": 0.203,
+    "yield_10y": 4.31,
+    "duration_10y": 8.06,
+    "sp500": 6679.4
+  },
+  {
+    "date": "2026-06-24",
+    "term_premium": 0.209,
+    "yield_10y": 4.32,
+    "duration_10y": 8.05,
+    "sp500": 6688.2
+  },
+  {
+    "date": "2026-07-01",
+    "term_premium": 0.215,
+    "yield_10y": 4.33,
+    "duration_10y": 8.05,
+    "sp500": 6697.1
+  },
+  {
+    "date": "2026-07-08",
+    "term_premium": 0.221,
+    "yield_10y": 4.34,
+    "duration_10y": 8.04,
+    "sp500": 6705.9
+  },
+  {
+    "date": "2026-07-15",
+    "term_premium": 0.226,
+    "yield_10y": 4.35,
+    "duration_10y": 8.04,
+    "sp500": 6714.7
+  },
+  {
+    "date": "2026-07-22",
+    "term_premium": 0.232,
+    "yield_10y": 4.36,
+    "duration_10y": 8.03,
+    "sp500": 6723.5
+  },
+  {
+    "date": "2026-07-29",
+    "term_premium": 0.238,
+    "yield_10y": 4.38,
+    "duration_10y": 8.03,
+    "sp500": 6732.4
+  },
+  {
+    "date": "2026-08-05",
+    "term_premium": 0.244,
+    "yield_10y": 4.39,
+    "duration_10y": 8.02,
+    "sp500": 6741.2
+  },
+  {
+    "date": "2026-08-15",
+    "term_premium": 0.25,
+    "yield_10y": 4.4,
+    "duration_10y": 8.02,
+    "sp500": 6750.0
+  },
+  {
+    "date": "2026-08-22",
+    "term_premium": 0.245,
+    "yield_10y": 4.39,
+    "duration_10y": 8.03,
+    "sp500": 6760.0
+  },
+  {
+    "date": "2026-08-29",
+    "term_premium": 0.241,
+    "yield_10y": 4.37,
+    "duration_10y": 8.03,
+    "sp500": 6770.0
+  },
+  {
+    "date": "2026-09-05",
+    "term_premium": 0.236,
+    "yield_10y": 4.36,
+    "duration_10y": 8.04,
+    "sp500": 6780.0
+  },
+  {
+    "date": "2026-09-12",
+    "term_premium": 0.232,
+    "yield_10y": 4.35,
+    "duration_10y": 8.04,
+    "sp500": 6790.0
+  },
+  {
+    "date": "2026-09-19",
+    "term_premium": 0.227,
+    "yield_10y": 4.33,
+    "duration_10y": 8.05,
+    "sp500": 6800.0
+  },
+  {
+    "date": "2026-09-26",
+    "term_premium": 0.223,
+    "yield_10y": 4.32,
+    "duration_10y": 8.05,
+    "sp500": 6810.0
+  },
+  {
+    "date": "2026-10-03",
+    "term_premium": 0.218,
+    "yield_10y": 4.3,
+    "duration_10y": 8.06,
+    "sp500": 6820.0
+  },
+  {
+    "date": "2026-10-10",
+    "term_premium": 0.214,
+    "yield_10y": 4.29,
+    "duration_10y": 8.06,
+    "sp500": 6830.0
+  },
+  {
+    "date": "2026-10-17",
+    "term_premium": 0.209,
+    "yield_10y": 4.28,
+    "duration_10y": 8.07,
+    "sp500": 6840.0
+  },
+  {
+    "date": "2026-10-24",
+    "term_premium": 0.205,
+    "yield_10y": 4.26,
+    "duration_10y": 8.07,
+    "sp500": 6850.0
+  },
+  {
+    "date": "2026-11-01",
+    "term_premium": 0.2,
+    "yield_10y": 4.25,
+    "duration_10y": 8.08,
+    "sp500": 6860
+  }
+]
